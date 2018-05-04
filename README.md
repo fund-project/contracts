@@ -1,5 +1,5 @@
-# Grassroots ProjectFund Smart Contracts
-Grassroots ProjectFund Smart Contracts
+# Grassroots Smart Contracts
+Grassroots Smart Contracts
 ## 初始化
 
 ### Geth
