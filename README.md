@@ -3,7 +3,7 @@ Grassroots ProjectFund Smart Contracts
 ## 初始化
 
 ### Geth
-使用以太坊客户端G,用于测试开发。
+使用以太坊客户端,用于测试开发。
 ```
 brew tap ethereum/ethereum
 brew install ethereum
